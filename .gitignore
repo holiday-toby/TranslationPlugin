@@ -1,5 +1,6 @@
+.DS_Store
 .idea/*
-!.idea/compiler.xml
-!/.idea/codeInsightSettings.xml
-out/
-/*.zip
+!.idea/icon.svg
+.gradle
+build
+sandbox
